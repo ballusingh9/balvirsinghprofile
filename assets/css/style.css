@@ -315,14 +315,14 @@ body {
   
 /* Theme 1 Styles*/
 .bg-theme-1{
-  background-image: url(/assets/img/design1.png);
+  background-image: url(../img/design1.png);
   min-height: 774px;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: top;
 }
 .section-bg{
-  background-image: url(/assets/img/design2.png);
+  background-image: url(../img/design2.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
