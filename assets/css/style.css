@@ -482,7 +482,13 @@ font-size: 12px !important;
   font-size: 13px !important;
 }
 .view-height{
-  height: 16px !important;
+  height: 11px !important;
+}
+.top-mobile{
+  margin-top: 3px !important;
+}
+.pad-mobile{
+  padding: 1px !important;
 }
 .ml-left{
     margin-left: 7px !important;
